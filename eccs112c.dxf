@@ -149,9 +149,9 @@ $GRIDUNIT
 9
 $PINSBASE
 10
-1.29711417549
+2.12805097103
 20
-0.584820044367
+1.30944902897
 30
 0
 9
@@ -173,7 +173,7 @@ $INSUNITS
 9
 $PSVPSCALE
 40
-0.0259672137959
+0.0208333333333
 0
 ENDSEC
 0
@@ -221,9 +221,9 @@ AcDbViewportTableRecord
 21
 1
 12
-272.205467317
+-74.7606565168
 22
-131.550001371
+0.479234977672
 13
 0
 23
@@ -249,9 +249,9 @@ AcDbViewportTableRecord
 37
 0
 40
-293.291806335
+30.671038571
 41
-2.57026143791
+1.71875
 42
 50
 43
@@ -1135,7 +1135,7 @@ AcDbLayerTableRecord
 2
 dim
 70
-0
+1
 62
 7
 6
@@ -2504,6 +2504,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2564,6 +2566,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2624,6 +2628,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2682,6 +2688,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2740,6 +2748,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2800,6 +2810,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
