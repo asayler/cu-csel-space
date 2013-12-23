@@ -149,9 +149,9 @@ $GRIDUNIT
 9
 $PINSBASE
 10
-2.17309100897
+2.02083333333
 20
-0.822102179088
+0.479166666667
 30
 0
 9
@@ -173,7 +173,7 @@ $INSUNITS
 9
 $PSVPSCALE
 40
-0.0194103644021
+0.0208333333333
 0
 ENDSEC
 0
@@ -221,9 +221,9 @@ AcDbViewportTableRecord
 21
 1
 12
-396.587837838
+-227.493243243
 22
-254.077702703
+0
 13
 0
 23
@@ -249,9 +249,9 @@ AcDbViewportTableRecord
 37
 0
 40
-533.432432432
+55.7837837838
 41
-2.57026143791
+1.71875
 42
 50
 43
@@ -1157,7 +1157,7 @@ AcDbLayerTableRecord
 2
 furniture
 70
-0
+1
 62
 7
 6
@@ -2600,6 +2600,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2660,6 +2662,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2720,6 +2724,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2780,6 +2786,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2840,6 +2848,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2900,6 +2910,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -2960,6 +2972,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -3018,6 +3032,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -3076,6 +3092,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -3134,6 +3152,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -3194,6 +3214,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
@@ -3254,6 +3276,8 @@ AcDbDimension
 32
 71
 5
+72
+0
 3
 Standard
 53
