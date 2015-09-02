@@ -1569,7 +1569,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
 2
-filecabnit_30_15
+filecabinet_30_15
 70
 0
 280
@@ -2465,7 +2465,7 @@ AcDbEntity
 100
 AcDbBlockBegin
 2
-filecabnit_30_15
+filecabinet_30_15
 70
 0
 10
@@ -2473,7 +2473,7 @@ filecabnit_30_15
 20
 0
 3
-filecabnit_30_15
+filecabinet_30_15
 1
 
 0
